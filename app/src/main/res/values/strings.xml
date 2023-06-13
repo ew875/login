@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">login</string>
+    <string name="loginPageTitle">LOGIN</string>
+    <string name="usernameText">Username</string>
+    <string name="passwordText">Password</string>
+    <string name="loginButtonText">Login</string>
+    <string name="newUserText">New User? Click Here!</string>
+
+    <string name="createPageTitle">CREATE ACCT</string>
+    <string name="createButtonConfirm">Create</string>
+    <string name="cancelButtonConfirm">Cancel</string>
+</resources>
